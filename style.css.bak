@@ -63,7 +63,7 @@ a {
 .image {
        width: 500px;
 	   height: 500px;
-	   margin-top: 150px;
+	   margin-top: 90px;
 	   }
 
 .image img{
